@@ -1,0 +1,10 @@
+{
+    "parking_lot": {
+        "total_spaces": 5,
+        "free_spaces": 5,
+        "occupied_spaces": 0,
+        "probability": 100.0
+    },
+    "bookings": [],
+    "website_visits": []
+}
